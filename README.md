@@ -7,4 +7,4 @@ libraries and programs.
 
 ## Samples
 
-go.eduardoandres.dev/slicezip
+https://go.eduardoandres.dev/slicezip
