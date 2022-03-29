@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "vangen",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

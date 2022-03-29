@@ -1,0 +1,9 @@
+{
+    "domain": "go.eduardoandres.dev",
+    "repositories": [
+      {
+        "prefix": "slicezip",
+        "url": "https://github.com/eacp/go-slicezip"
+      }
+    ]
+  }
